@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/coderstation/static/css/main.d9b1163d.css",
+    "main.js": "/coderstation/static/js/main.09426b90.js",
+    "static/media/headerImage.png": "/coderstation/static/media/headerImage.5bd86c9373ea581ef51e.png",
+    "static/media/microsoft.svg": "/coderstation/static/media/microsoft.388eb048df37a468bef4eb8d7b3a99ef.svg",
+    "static/media/youtube.svg": "/coderstation/static/media/youtube.bef2d36970729de7dbb228fc7e3f36f3.svg",
+    "static/media/google.svg": "/coderstation/static/media/google.8f58d5286ce14fed69edf7a7b818f98c.svg",
+    "static/media/verizon.svg": "/coderstation/static/media/verizon.1c17f902c029479a510240f197d2e309.svg",
+    "static/media/slack.svg": "/coderstation/static/media/slack.28f6fbb73d3b387a6d734023d1717022.svg",
+    "static/media/lexmark.svg": "/coderstation/static/media/lexmark.474946935dcc5a98f4ab2a1cbe20d0aa.svg",
+    "static/media/icon-softskills.svg": "/coderstation/static/media/icon-softskills.23cf3b2bbc9d2ca10a664b591bf24bdc.svg",
+    "static/media/icon-hardware.svg": "/coderstation/static/media/icon-hardware.1b770d6e112c7e102f790d188c2cca0f.svg",
+    "static/media/lenovo.svg": "/coderstation/static/media/lenovo.393541c4fa923ab94ef9677ca3c8829e.svg",
+    "static/media/netflix.svg": "/coderstation/static/media/netflix.354618052d57824c2ea53c9b1ab65143.svg",
+    "static/media/icon-star.svg": "/coderstation/static/media/icon-star.bdffe799ef37a817245b7e7d6a911fbc.svg",
+    "static/media/icon-api.svg": "/coderstation/static/media/icon-api.86a606e6dacd9fa6156594911695ad09.svg",
+    "index.html": "/coderstation/index.html",
+    "static/media/icon-full.svg": "/coderstation/static/media/icon-full.5ad7fa12508bab63acf53bd0e092dfc0.svg",
+    "static/media/logo.svg": "/coderstation/static/media/logo.71552edee6c701b235171fcbc0f596ad.svg",
+    "main.d9b1163d.css.map": "/coderstation/static/css/main.d9b1163d.css.map",
+    "main.09426b90.js.map": "/coderstation/static/js/main.09426b90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9b1163d.css",
+    "static/js/main.09426b90.js"
+  ]
+}
