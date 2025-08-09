@@ -7,7 +7,7 @@ export default function Footer() {
     const [totalCursos, setTotalCursos] = useState(0);
 
     useEffect(() => {
-        axios.get('http://localhost:3000/cursos/')
+        axios.get('https://coderstation-backend.onrender.com/cursos')
         .then(response => {
             setTotalCursos(response.data.length);
         })

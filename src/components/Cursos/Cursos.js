@@ -9,7 +9,7 @@ function Cursos() {
     const [ loading, setLoading ] = useState(true);
 
     useEffect(() => {
-        axios.get('http://localhost:3000/cursos/')
+        axios.get('https://coderstation-backend.onrender.com/cursos')
         .then(response => {
             setCursos(response.data)
             setLoading(false)
